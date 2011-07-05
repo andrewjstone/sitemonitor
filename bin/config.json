@@ -1,0 +1,19 @@
+{
+  "sites" : [
+    {
+      "name":"Nodejitsu Production Blog",
+      "url": "http://blog.nodejitsu.com/"
+    },
+    {
+      "name":"Nodejitsu Home Page Signup",
+      "url": "http://www.nodejitsu.com/"
+    },
+    {
+      "name":"Nodejitsu Master API",
+      "url": "http://api.nodejitsu.com/"
+    }
+    
+  ]
+
+  
+}

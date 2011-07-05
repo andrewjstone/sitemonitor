@@ -1,0 +1,5 @@
+#!/usr/bin/env node
+
+var PingerHook = require('../lib/pinger').PingerHook;
+var myhook = new PingerHook( { name: "pinger-hook" } );
+myhook.start();
