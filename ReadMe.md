@@ -4,11 +4,11 @@
 
 ## Installation
 
-   npm install hook.io-pinger -g
+     npm install hook.io-pinger -g
 
 ## Usage
 
-   hookio-pinger
+     hookio-pinger
 
 ## Hook Events Names
 
