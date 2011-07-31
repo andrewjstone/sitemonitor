@@ -1,7 +1,7 @@
 {
   "author": "Marak Squires <marak.squires@gmail.com>",
   "name": "hook.io-pinger",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "repository": {
     "type": "git",
     "url": "git://github.com/Marak/hook.io-pinger.git"
@@ -14,9 +14,9 @@
     "node": ">= v0.4.7"
   },
   "dependencies": {
-    "hook.io"         : "0.4.x",
-    "hook.io-cron"    : "0.1.x",
-    "hook.io-request" : "0.1.x"
+    "hook.io"         : "0.6.x",
+    "hook.io-cron"    : "0.3.x",
+    "hook.io-request" : "0.3.x"
   },
   "devDependencies": {}
 }

@@ -1,0 +1,12 @@
+{ 
+  "sites": [
+   {
+     "name": "Google",
+     "url": "http://google.com/"
+   },
+   {
+     "name": "Github",
+     "url": "http://www.github.com/"
+   }
+  ]
+}
