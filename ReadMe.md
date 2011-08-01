@@ -1,6 +1,6 @@
 ## hook.io-pinger
 
-*a Hook that will ping urls on set intervals. useful for HTTP monitoring*
+*a Hook for pinging sites. useful for determining if a site is online or offline.*
 
 ## Installation
 
