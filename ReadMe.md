@@ -1,14 +1,14 @@
-## hook.io-pinger
+## hook.io-sitemonitor
 
 *a Hook for pinging sites. useful for determining if a site is online or offline.*
 
 ## Installation
 
-     npm install hook.io-pinger -g
+     npm install hook.io-sitemonitor -g
 
 ## Usage
 
-     hookio-pinger
+     hookio-sitemonitor
 
 ## Hook Events Names
 

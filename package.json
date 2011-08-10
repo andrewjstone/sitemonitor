@@ -10,12 +10,12 @@
   "version": "0.1.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Marak/hook.io-pinger.git"
+    "url": "git://github.com/hookio/sitemonitor.git"
   },
   "bin": {
-     "hookio-pinger": "./bin/pinger"
+     "hookio-sitemonitor": "./bin/sitemonitor"
    },
-  "main": "./lib/pinger",
+  "main": "./lib/sitemonitor",
   "engines": {
     "node": ">= v0.4.7"
   },
