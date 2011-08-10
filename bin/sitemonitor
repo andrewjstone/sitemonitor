@@ -1,0 +1,9 @@
+#!/usr/bin/env node
+
+var SiteMonitorHook = require('../lib/sitemonitor').SiteMonitorHook;
+
+var myhook = new SiteMonitorHook({
+  name: "the-sitemonitor-hook"
+});
+
+myhook.start();

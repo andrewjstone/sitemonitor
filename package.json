@@ -1,7 +1,13 @@
 {
+  "name": "hook.io-sitemonitor",
   "author": "Marak Squires <marak.squires@gmail.com>",
-  "name": "hook.io-pinger",
-  "version": "0.2.0",
+  "contributors": [
+    {
+      "name" : "David Björklund",
+      "email" : "davidbj@kth.se"
+    }
+  ],
+  "version": "0.1.0",
   "repository": {
     "type": "git",
     "url": "git://github.com/Marak/hook.io-pinger.git"
