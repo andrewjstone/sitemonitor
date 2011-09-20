@@ -7,7 +7,7 @@
       "email" : "davidbj@kth.se"
     }
   ],
-  "version": "0.1.1",
+  "version": "0.2.0",
   "repository": {
     "type": "git",
     "url": "git://github.com/hookio/sitemonitor.git"
@@ -20,9 +20,9 @@
     "node": ">= v0.4.7"
   },
   "dependencies": {
-    "hook.io"         : "0.6.x",
-    "hook.io-cron"    : "0.3.x",
-    "hook.io-request" : "0.3.x"
+    "hook.io"         : "0.7.x",
+    "hook.io-cron"    : "0.4.x",
+    "hook.io-request" : "0.4.x"
   },
   "devDependencies": {}
 }
